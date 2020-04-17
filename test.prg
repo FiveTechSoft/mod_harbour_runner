@@ -1,3 +1,5 @@
 function Main()
-  ? hb_Version()
+
+  ? "Hola a todos"
+
 return nil
